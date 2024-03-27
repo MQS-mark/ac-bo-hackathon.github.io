@@ -1,0 +1,23 @@
+---
+number: 1 # leave as-is, maintainers will adjust
+title: Drug-Solvents mixture formulation optimisation with Bayesian Optimization for Design of Experiments (BODoE)
+topic: <topic-name>
+team_leads:
+  - Mark Nicholas Jones (MQS)
+
+# Comment these lines by prepending the pound symbol (#) to each line to hide these elements
+contributors:
+  - Alan Mansour (MQS)
+  - Nima Jalili (MQS)
+  - Botond Horvath (MQS)
+
+# github: AC-BO-Hackathon/BODoE
+# youtube_video: <your-video-id>
+
+---
+
+To drive your automated laboratory for closed-loop design of experiments with Bayesian statistics, several interface parts will be developed during this Hackathon project:
+- Data schemas for communication between the BO methods, COSMO-SAC solubility predictions and the interface to an automated laboratory setup.
+
+References:
+https://blog.mqs.dk/posts/10_cosmo/10_cosmo/
